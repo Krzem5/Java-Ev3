@@ -1,0 +1,1 @@
+java -jar /home/robot/.tmp/java-server.jar
