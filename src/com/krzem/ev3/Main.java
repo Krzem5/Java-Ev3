@@ -1,4 +1,4 @@
-package com.krzem.ev3.server;
+package com.krzem.ev3;
 
 
 
